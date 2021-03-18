@@ -20,3 +20,5 @@ describe("Command class", function() {
   });
 
 });
+
+//constructor sets command type - line 12 change
